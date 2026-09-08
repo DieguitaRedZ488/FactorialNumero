@@ -13,6 +13,4 @@ function factorialIterativo(n) {
 
 // Ejemplo de uso
 console.log(factorialIterativo(5)); // Resultado: 120
-console.log(factorialIterativo(0)); // Resultado: 1
-console.log(factorialIterativo(6)); // Resultado: 720
-console.log(factorialIterativo(10)); // Resultado: 720
+

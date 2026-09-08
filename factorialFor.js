@@ -11,6 +11,5 @@ function factorialIterativo(n) {
     return resultado;
 }
 
-// Ejemplo de uso
-console.log(factorialIterativo(5)); // Resultado: 120
+
 
